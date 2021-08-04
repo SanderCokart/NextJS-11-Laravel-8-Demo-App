@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/SanderCokart/NextJS-11-Laravel-8-Demo-App-API.git
+[submodule "client"]
+	path = client
+	url = https://github.com/SanderCokart/NextJS-11-Laravel-8-Demo-App-CLIENT.git
